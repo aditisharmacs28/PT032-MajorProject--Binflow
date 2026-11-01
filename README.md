@@ -17,7 +17,7 @@ BinFlow is a municipal waste management system that simulates IoT bin sensors, p
 <br />
 
 <div align="center">
-  <img src="docs/screenshots/dashboard.jpeg" alt="BinFlow Dashboard Overview" width="90%" />
+  <img src="dashboard.jpeg" alt="BinFlow Dashboard Overview" width="90%" />
   <p><i>Dashboard with live map, bin status overview, overflow alerts, and collection progress.</i></p>
 </div>
 
