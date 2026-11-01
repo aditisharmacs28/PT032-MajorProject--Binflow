@@ -17,7 +17,7 @@ BinFlow is a municipal waste management system that simulates IoT bin sensors, p
 <br />
 
 <div align="center">
-  <img src="docs/screenshots/dashboard.jpeg" alt="BinFlow Dashboard Overview" width="90%" />
+  <img src="dashboard.jpeg" alt="BinFlow Dashboard Overview" width="90%" />
   <p><i>Dashboard with live map, bin status overview, overflow alerts, and collection progress.</i></p>
 </div>
 
@@ -75,28 +75,28 @@ graph TD
 *Summary KPIs (total bins, full bins, bins near overflow, vehicles, daily waste), a live map of Greater Noida sectors, a bin status breakdown, top overflow alerts, collection progress, estimated waste composition, and recent activity.*
 
 <div align="center">
-  <img src="docs/screenshots/dashboard.jpeg" alt="Dashboard and Live Map" width="90%" />
+  <img src="dashboard.jpeg" alt="Dashboard and Live Map" width="90%" />
 </div>
 
 ### 2. 🔍 Bin Inspector
 *Real-time status of individual bins: online, warning, and overflow counts, map/list/satellite views, a selected-bin detail panel with fill level and status, a fill-level trend chart, recent alerts, and a searchable list of all bins.*
 
 <div align="center">
-  <img src="docs/screenshots/bin_inspector.jpeg" alt="Bin Inspector" width="90%" />
+  <img src="bin_inspector.jpeg" alt="Bin Inspector" width="90%" />
 </div>
 
 ### 3. 🚚 Route Optimization
 *Optimized collection routes for multiple vehicles shown on the map, with total distance, estimated completion time, and fuel savings. A route list shows each vehicle's sectors, bins covered, distance, and duration, along with route efficiency, fuel and environmental impact, and a route preview.*
 
 <div align="center">
-  <img src="docs/screenshots/routeOptimize.jpeg" alt="Route Optimization" width="90%" />
+  <img src="routeOptimize.jpeg" alt="Route Optimization" width="90%" />
 </div>
 
 ### 4. 🎛️ IoT Hardware Simulation
 *Wokwi circuit design for the smart bin node: an ESP32 microcontroller connected to an HC-SR04 ultrasonic sensor for fill level, a PIR motion sensor, an LCD display, a servo motor, an LED, a buzzer, and a push button.*
 
 <div align="center">
-  <img src="docs/screenshots/esp32Microcontrollerdesign.jpeg" alt="ESP32 IoT Sensor Circuit (Wokwi)" width="70%" />
+  <img src="esp32Microcontrollerdesign.jpeg" alt="ESP32 IoT Sensor Circuit (Wokwi)" width="70%" />
 </div>
 
 ---
@@ -241,14 +241,6 @@ docker-compose up --build -d
 
 ---
 
-## 🙏 Acknowledgments
 
-BinFlow is built on the open-source [EcoBin Smart Waste Management System](https://github.com/RishvinReddy/EcoBin-Smart-Waste-Management-System) by Rishvin Reddy, released under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## 🤝 Contributing
 
-Contributions are welcome. Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
