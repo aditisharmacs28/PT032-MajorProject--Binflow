@@ -241,14 +241,6 @@ docker-compose up --build -d
 
 ---
 
-## 🙏 Acknowledgments
 
-BinFlow is built on the open-source [EcoBin Smart Waste Management System](https://github.com/RishvinReddy/EcoBin-Smart-Waste-Management-System) by Rishvin Reddy, released under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## 🤝 Contributing
 
-Contributions are welcome. Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
